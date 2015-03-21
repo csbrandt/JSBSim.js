@@ -1,6 +1,6 @@
 {
   "name": "jsbsim.js",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "JSBSim flight dynamics model ported to JavaScript",
   "bin": "./bin/jsbsim-cli",
   "main": "index.js",
@@ -14,7 +14,9 @@
   "browser": "test/tests.js",
   "preferGlobal": true,
   "keywords": [
-    "FDM"
+    "FDM",
+    "flight",
+    "simulator"
   ],
   "author": "csbrandt",
   "license": "LGPL-2.1",
