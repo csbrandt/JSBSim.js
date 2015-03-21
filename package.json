@@ -1,8 +1,8 @@
 {
   "name": "jsbsim.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "JSBSim flight dynamics model ported to JavaScript",
-  "bin": "index.js",
+  "bin": "./bin/jsbsim-cli",
   "main": "index.js",
   "repository": {
     "url": "https://github.com/csbrandt/JSBSim.js.git"
