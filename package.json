@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "JSBSim flight dynamics model ported to JavaScript",
   "main": "index.js",
+  "repository": {
+    "url": "https://github.com/csbrandt/JSBSim.js.git"
+  },
   "scripts": {
      "build": "grunt build",
      "test": "make test"
