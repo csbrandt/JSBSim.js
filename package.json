@@ -1,5 +1,5 @@
 {
-  "name": "JSBSim.js",
+  "name": "jsbsim.js",
   "version": "0.0.1",
   "description": "JSBSim flight dynamics model ported to JavaScript",
   "main": "index.js",

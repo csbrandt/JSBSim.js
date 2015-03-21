@@ -2,7 +2,7 @@
 
 Installation
 -------------
-    $ npm install -g JSBSim.js
+    $ npm install -g jsbsim.js
 
 
 Building
@@ -14,7 +14,7 @@ Usage
 
 ####node.js
 
-    $ JSBSim.js [script file name] [output file names] <options>
+    $ jsbsim.js [script file name] [output file names] <options>
 
 ###
 
