@@ -1,3 +1,5 @@
+[![NPM](https://nodei.co/npm/jsbsim.js.png?downloads=true&stars=true)](https://nodei.co/npm/jsbsim.js/)
+
 [JSBSim](http://jsbsim.sourceforge.net/index.html) flight dynamics model ported to JavaScript using emscripten
 
 Installation
