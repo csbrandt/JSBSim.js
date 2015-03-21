@@ -1,0 +1,28 @@
+{
+  "name": "JSBSim.js",
+  "version": "0.0.1",
+  "description": "JSBSim flight dynamics model ported to JavaScript",
+  "main": "index.js",
+  "scripts": {
+     "build": "grunt build",
+     "test": "make test"
+  },
+  "browser": "test/tests.js",
+  "preferGlobal": true,
+  "keywords": [
+    "FDM"
+  ],
+  "author": "csbrandt",
+  "license": "LGPL-2.1",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-run": "~0.3.0",
+    "time-grunt": "^0.3.1",
+    "grunt-contrib-coffee": "~0.12.0",
+    "load-grunt-tasks": "^0.4.0",
+    "grunt-newer": "^0.7.0",
+    "chai": "~1.10.0",
+    "mocha": "~2.2.0"
+  }
+}
